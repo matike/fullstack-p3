@@ -1,2 +1,1 @@
-# fullstack-p3
-part 3 of the fullstack course
+https://gentle-island-75696.herokuapp.com/
