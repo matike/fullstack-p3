@@ -2,7 +2,7 @@
   "name": "fullstack-p3",
   "version": "1.0.0",
   "engines": {
-    "node": "10.3.0"
+    "node": "11.8.0"
   },
   "description": "part 3 of the fullstack course",
   "main": "index.js",
