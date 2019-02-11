@@ -1,0 +1,29 @@
+{
+  "name": "fullstack-p3",
+  "version": "1.0.0",
+  "description": "part 3 of the fullstack course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matike/fullstack-p3.git"
+  },
+  "author": "matike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matike/fullstack-p3/issues"
+  },
+  "homepage": "https://github.com/matike/fullstack-p3#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
